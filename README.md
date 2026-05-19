@@ -23,7 +23,7 @@ A React + Vite pizza ordering dashboard built with Tailwind CSS, Redux Toolkit, 
 
 ## Project structure
 
-- `src/App.jsx` — main app container and route setup
+- `src/App.jsx` — main app container and route setup (see [React Router Documentation](./README_ROUTER.md) for details)
 - `src/main.jsx` — React entry point
 - `src/index.css` — global styles
 - `src/Store.js` — Redux store configuration (see [Redux Documentation](./README_REDUX.md) for details)
@@ -38,6 +38,10 @@ A React + Vite pizza ordering dashboard built with Tailwind CSS, Redux Toolkit, 
 ## Redux Documentation
 
 For a complete guide on how global state, slices, actions, selectors, and async thunks are managed in this project, check the dedicated [Redux Architecture & State Management README](./README_REDUX.md).
+
+## React Router Documentation
+
+For a complete guide on how navigation, nested routes, data loaders, actions, global loading overlays, and error boundaries are configured in this project, check the dedicated [React Router Architecture & Data Flows README](./README_ROUTER.md).
 
 ## Setup
 
