@@ -2,7 +2,7 @@
 
 import { useFetcher, useLoaderData } from "react-router-dom";
 import { getOrder } from "../../services/apiRestaurant";
-import OrderItem from "../../../../../ultimate-react-course-main/16-fast-react-pizza/final-1-after-tailwind/src/features/order/OrderItem";
+import OrderItem from "./OrderItem";
 import {
   calcMinutesLeft,
   formatCurrency,

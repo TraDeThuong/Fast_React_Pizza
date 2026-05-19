@@ -1,4 +1,3 @@
-import { Link } from 'react-router-dom';
 import LinkButton from '../../ui/LinkButton';
 import CartItem from './CartItem';
 import { useDispatch, useSelector } from 'react-redux';
