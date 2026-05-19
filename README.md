@@ -1,4 +1,5 @@
 # Fast React Pizza Co
+link: https://fast-react-pizza-jey6u002i-tradethuongs-projects.vercel.app
 
 A React + Vite pizza ordering dashboard built with Tailwind CSS, Redux Toolkit, and React Router.
 
